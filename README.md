@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Course-selling-website**
 
-- 🌱 I’m currently learning **MongoDB, Express, React, Node.**
+- 🌱 I’m currently learning **MongoDB, Express.js, React, Node.js**
 
 - 📝 I regularly write articles on [roshansblog.hashnode.dev](roshansblog.hashnode.dev)
 
