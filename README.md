@@ -1,4 +1,4 @@
--<h1 align="center">Hi 👋, I'm Roshan Chenna</h1>
+<h1 align="center">Hi 👋, I'm Roshan Chenna</h1>
 
 -  A passionate Full Stack Developer from India
  
