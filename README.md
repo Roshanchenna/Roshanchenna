@@ -6,5 +6,5 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **roshanchenna@gmail.com**
+- 📫 Reach me at **roshanchenna@gmail.com**
  
