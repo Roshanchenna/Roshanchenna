@@ -2,7 +2,7 @@
 
 -  A passionate Full Stack Developer from India
  
-- 🌱 I’m currently learning **Next.js, DevOps**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **MERN**
 
